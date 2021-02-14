@@ -2,10 +2,10 @@
 /*-----------------------------------------------------------------
 [Main Stylesheet]
 
-Project:    Nile Logistics
+Project:    ATC Freight & Shipping 
 Version:    1.0
-Last change:    20 August 18
-Primary use:    Transportation and Logistics 
+Last change:    9 Deb 21
+Primary use:    Shipping and Logistics 
 
 
 -------------------------------------------------------------------
@@ -846,7 +846,7 @@ header.header-search .input-group-lg > .input-group-btn > .btn {
   top: 0;
   left: 0;
   width: 100%;
-  background-color: #333;
+  background-color: rgba(214, 200, 5, 0.753)6);
 }
 
 header a.model-link {
@@ -1375,13 +1375,13 @@ header#sidebar-header
 
 .nile-about-section {
   padding: 100px 0px 100px 0px;
-  background-image: url(../Placeholder\ 1.jpg);
+  background-image: url(../images/Background.jpg);
   background-size: cover;
 }
 
 .yellow-truck {
   border-radius: 700px;
-  border: 10px solid goldenrod;
+  border: 5px solid goldenrod;
   margin-left: 100px;
 }
 
@@ -1615,7 +1615,7 @@ a.action-bottom:hover {
 }
 
 .page-title {
-  background-image: url(../airplane.jpg);
+  background-image: url(../images/airplane.jpg);
   background-size: cover;
   background-position: center center;
 }
@@ -1624,9 +1624,10 @@ a.action-bottom:hover {
   color: rgb(5, 5, 5);
   font-size: 40px;
   padding: 20px;
-  border: 4px solid goldenrod;
+  border: 3px solid goldenrod;
   border-width: 5px;
   border-radius: 15px;
+  background-color: lightgrey;
   display: table;
   margin: 0 auto;
 }
@@ -2039,7 +2040,7 @@ footer.layout-light .about-us {
   color: #4a4a4a;
 }
 footer.layout-dark {
-  background-color: #4a4a4a;
+  background-color: rgb(123, 126, 128);
 }
 footer.layout-dark .contact-info {
   color: #fff;
