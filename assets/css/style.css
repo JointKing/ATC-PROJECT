@@ -1615,9 +1615,12 @@ a.action-bottom:hover {
 }
 
 .page-title {
-  background-image: url(../images/airplane.jpg);
+  background-image: url(../images/ATC\ Shipping\ \ Freight\ Motion\ LOGO.gif);
   background-size: cover;
   background-position: center center;
+  max-width: auto;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 .page-title h1 {
   text-align: center;
